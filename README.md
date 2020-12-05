@@ -6,6 +6,7 @@ This repository contains R-related projects I have worked on.
 ## Table of Contents
 - [Autoregressive LASSO](#Autoregressive-LASSO)
 - [Data Retrieval Using CANSIM & R](#Data-Retrive)
+- [License](#License)
 
 ## Autoregressive LASSO <a name="Autoregressive-LASSO"></a>
 
