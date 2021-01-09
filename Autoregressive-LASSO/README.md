@@ -5,7 +5,7 @@ This folder contains files for time-series forecasting using an autoregressive L
 - [autoregressive-lasso.R](autoregressive-lasso.R): This file is the R script I used for the forecasting exercise.
 - [autoregressive-lasso.Rmd](autoregressive-lasso.Rmd): This is the R-markdown file used to turn my R code into a document.
 - [autoregressive-lasso.pdf](autoregressive-lasso.pdf): The PDF-formatted document outlining how to forecast using an Autoregressive LASSO Model. 
-- [dataset.csv](dataset.csv): Quarterly series of U.S. macroeconomic data (1970 Q1-2019Q2), including the Industrial Production Index 
+- [dataset.csv](dataset.csv): Quarterly series of U.S. macroeconomic data (1970 Q1-2019 Q2), including the Industrial Production Index 
 - [cite.bib](cite.bib): BibTeX file used for my citations.
 
 ## License
