@@ -1,5 +1,5 @@
 # Time-Series Forecasting using Autoregressive LASSO
-This folder contains files used for how to conduct time-series forecasting using an autoregressive LASSO model. The macroeconomic indicator used for this project is the U.S. Industrial Production Index. I demonstrate how to create a lagged time-series dataset, how to estimate an autoregressive LASSO model using this lagged dataset, and how to use this estimated model for forecasting. Time-series cross validation is used to determine the best log-lambda value which yields the model with the best predictive power. I used BibTeX to cite my sources. Here are a brief description of the files.
+This folder contains files for time-series forecasting using an autoregressive LASSO Model. The macroeconomic indicator used for this project is the U.S. Industrial Production Index. I demonstrate how to create a lagged time-series data-set, how to estimate an autoregressive LASSO model with this lagged data-set, and how to forecast using the estimated model. Time-series cross validation is used to determine the best log-lambda value which yields the model with the best predictive power. I used BibTeX to cite my sources. Here are a brief description of the files.
 
 ## About the files
 - [autoregressive-lasso.R](autoregressive-lasso.R): This file is the R script I used for the forecasting exercise.
