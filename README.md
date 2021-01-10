@@ -9,10 +9,10 @@ This repository contains R-related projects I have worked on.
 - [License](#License)
 
 ## Autoregressive LASSO <a name="Autoregressive-LASSO"></a>
-This project contains files for time-series forecasting using an autoregressive LASSO model. [Click here](https://github.com/lj-valencia/R-projects/tree/master/Autoregressive-LASSO)
+This project contains files for time-series forecasting using an autoregressive LASSO model. To see files, [click here](https://github.com/lj-valencia/R-projects/tree/master/Autoregressive-LASSO)
 
 ## Data Retrieval using CANSIM & R <a name="Data-Retrive"></a>
-This project contains files which demonstrates how to retrieve data from CANSIM using the cansim package. [Click here](https://github.com/lj-valencia/R-projects/tree/master/CANSIM-Retrieval)
+This project contains files which demonstrates how to retrieve data from CANSIM using the cansim package. To see files, [click here](https://github.com/lj-valencia/R-projects/tree/master/CANSIM-Retrieval)
 
 ## License <a name="License"></a>
 These projects is made available under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
