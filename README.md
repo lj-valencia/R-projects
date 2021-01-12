@@ -16,7 +16,7 @@ This project contains files for time-series forecasting using an autoregressive 
 This project contains files which demonstrates how to retrieve data from CANSIM using the cansim package. To see files, [click here](https://github.com/lj-valencia/R-projects/tree/master/CANSIM-Retrieval)
 
 ## Scraping PDF files using R <a name="PDF-files"></a>
-*This project is coming soon*
+*This project is coming soon.*
 
 ## License <a name="License"></a>
 These projects is made available under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
