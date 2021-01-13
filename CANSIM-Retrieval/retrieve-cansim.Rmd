@@ -1,5 +1,5 @@
 ---
-title: "Retrieving Data from Staistics Canada using the cansim library"
+title: "Retrieving data from Staistics Canada using the `cansim` library"
 author: "LJ Valencia^[Bachelor of Arts (Honors) in Economics, University of Alberta]"
 header-includes:
    - \setlength\parindent{24pt}
