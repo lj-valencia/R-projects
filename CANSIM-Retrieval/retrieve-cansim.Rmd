@@ -1,5 +1,5 @@
 ---
-title: "Manipulating data from Statistics Canada Tables"
+title: "Retrieving Data from Staistics Canada using the cansim library"
 author: "LJ Valencia^[Bachelor of Arts (Honors) in Economics, University of Alberta]"
 header-includes:
    - \setlength\parindent{24pt}
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 \indent 
-This paper is is an example on how to manipulate CANSIM data from Statistics Canada. Three R packages are used in this demonstration: `tidyverse`, `cansim`, and `writexl`. The `cansim` package is very useful in retrieving data tables and time-series from Canada's socioeconomic repository, CANSIM. The `tidyverse` package is a collection of R packages designed for data science^[For more information, see https://www.tidyverse.org/]. Lastly, `writexl` is a package that is used to export the dataframes in '.xlsx' format. In this demonstration, I will be using the Consumer Price Index, monthly, not seasonally adjusted^[Statistics Canada. Table 18-10-0004-01 Consumer Price Index, monthly, not seasonally adjusted].
+This paper shows how to retrieve CANSIM data from Statistics Canada using the `cansim` package. Three R packages are used in this demonstration: `tidyverse`, `cansim`, and `writexl`. The `cansim` package is very useful in retrieving data tables and time-series from Canada's socioeconomic repository, CANSIM. The `tidyverse` package is a collection of R packages designed for data science^[For more information, see https://www.tidyverse.org/]. Lastly, `writexl` is a package that is used to export the dataframes in '.xlsx' format. In this demonstration, I will be using the Consumer Price Index, monthly, not seasonally adjusted^[Statistics Canada. Table 18-10-0004-01 Consumer Price Index, monthly, not seasonally adjusted].
 
 # Importing Packages
 \indent 
