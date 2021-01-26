@@ -3,7 +3,7 @@ This folder contains files for retrieving data from CANSIM using R and vector co
 
 ## About the files
 - [retrieve-cansim.Rmd](retrieve-cansim.Rmd): This is the R-markdown file used to turn my R code into a document.
-- [retrieve-cansim.pdf](autoregressive-lasso.pdf): The PDF-formatted document outlining how to retrieve data from CANSIM using R.
+- [retrieve-cansim.pdf](retrieve-cansim.pdf): The PDF-formatted document outlining how to retrieve data from CANSIM using R.
 - [retrieve-cansim-cite.bib](retrieve-cansim-cite.bib): BibTeX file used for my citations.
 
 ## License
