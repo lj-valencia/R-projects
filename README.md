@@ -5,14 +5,14 @@ This repository contains R-related projects I have worked on.
 
 ## Table of Contents
 - [Autoregressive LASSO](#Autoregressive-LASSO)
-- [Data Retrieval Using CANSIM & R](#Data-Retrive)
+- [Data Retrieval using the cansim package](#Data-Retrive)
 - [Scraping PDF files using R](#PDF-files)
 - [License](#License)
 
 ## Autoregressive LASSO <a name="Autoregressive-LASSO"></a>
 This project contains files for time-series forecasting using an autoregressive LASSO model. To see files, [click here](https://github.com/lj-valencia/R-projects/tree/master/Autoregressive-LASSO)
 
-## Data Retrieval using CANSIM & R <a name="Data-Retrive"></a>
+## Data Retrieval using the cansim package <a name="Data-Retrive"></a>
 This project contains files which demonstrates how to retrieve data from CANSIM using the cansim package. To see files, [click here](https://github.com/lj-valencia/R-projects/tree/master/CANSIM-Retrieval)
 
 ## Scraping PDF files using R <a name="PDF-files"></a>
