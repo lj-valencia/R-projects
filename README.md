@@ -13,10 +13,10 @@ This repository contains R-related projects I have worked on.
 This project contains files for time-series forecasting using an autoregressive LASSO model. To see files, [click here](https://github.com/lj-valencia/R-projects/tree/master/Autoregressive-LASSO)
 
 ## Data Retrieval using the cansim package <a name="Data-Retrive"></a>
-This project contains files which demonstrates how to retrieve data from CANSIM using the cansim package. To see files, [click here](https://github.com/lj-valencia/R-projects/tree/master/CANSIM-Retrieval)
+This project contains files which demonstrate how to retrieve data from CANSIM using the cansim package. To see files, [click here](https://github.com/lj-valencia/R-projects/tree/master/CANSIM-Retrieval)
 
-## Scraping PDF files using R <a name="PDF-files"></a>
-*This project is coming soon.*
+## Extracting PDF files using the pdftools package <a name="PDF-files"></a>
+This project contains files which demonstrate how to extract data from PDF files using the pdftools package. To see files, [click here](https://github.com/lj-valencia/R-projects/tree/master/Extract-PDF-1)
 
 ## License <a name="License"></a>
 These projects are made available under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
