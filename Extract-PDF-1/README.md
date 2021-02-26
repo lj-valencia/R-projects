@@ -1,5 +1,5 @@
-# Data Retrieval using CANSIM & R
-This folder contains files for extracting PDF files using R and its various libraries. Here are a brief description of the files.
+# Extracting Data from PDF Files
+This folder contains files for extracting data from PDF files using R and its various libraries. Here are a brief description of the files.
 
 ## About the files
 - [retrieve-cansim.Rmd](retrieve-cansim.Rmd): This is the R-markdown file used to turn my R code into a document.
