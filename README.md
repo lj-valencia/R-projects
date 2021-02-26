@@ -6,7 +6,7 @@ This repository contains R-related projects I have worked on.
 ## Table of Contents
 - [Autoregressive LASSO](#Autoregressive-LASSO)
 - [Data Retrieval using the cansim package](#Data-Retrive)
-- [Scraping PDF files using R](#PDF-files)
+- [Extracting PDF files using the pdftools package](#PDF-files)
 - [License](#License)
 
 ## Autoregressive LASSO <a name="Autoregressive-LASSO"></a>
